@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClassKeeper</string>
+    <string name="login">login</string>
+    <string name="send_success">Login Success</string>
+    <string name="cancel_login">Cancel Login</string>
+    <string name="logon_denied">Logon Denied</string>
+    <string name="send_return">Abnormal Back</string>
+</resources>

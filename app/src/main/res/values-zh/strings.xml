@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">班级管家</string>
+    <string name="login">登录</string>
+    <string name="send_success">登录成功</string>
+    <string name="cancel_login">取消登录</string>
+    <string name="logon_denied">登录被拒绝</string>
+    <string name="send_return">发送返回</string>
+</resources>
